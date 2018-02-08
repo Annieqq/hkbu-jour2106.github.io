@@ -14,7 +14,7 @@
 
 * Zhao Shuang Kelly - https://kellyzhao97.github.io
 
-* QIU Ziwei Annie - https://Annieqq.github.io
+* QIU Ziwei Annie - https://annieqq.github.io/html5up-massively%E6%A8%A1%E6%9D%BF/index.html
 
 * Lee Yan Kiu - https://zinnialee23.github.io
 
